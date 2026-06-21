@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Besos de fuego puro, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Besos de fuego puro, Vol. 2** (besos-de-fuego-puro-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T10:42:17.044530 | `v1` | `95086a1044423802c6cb8f60e110150958aab4f7cba0b8b0f1dde66bcdcb10ba` | `299ff98ed25d23a6411cd02e9b7e5fc9e4d85a21c2598774afab9c328e3c93e2` | `2026-06-21_besos-de-fuego-puro-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

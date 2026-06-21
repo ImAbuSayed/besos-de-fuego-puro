@@ -1,4 +1,4 @@
-# Besos de fuego puro
+# Besos de fuego puro, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Besos de fuego puro |
+| **Title** | Besos de fuego puro, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-de-fuego-puro/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Besos de fuego puro](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-fuego-puro/) |
+| **Get License** | [Obtain a Music License for Besos de fuego puro, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-fuego-puro/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Te veo bailando, chula, con ese flow criminal
+> Tus labios saben a fuego, tu mirada es letal
+> Dime si esta noche nos vamos lejos de acá
+> Que quiero hacerte mía, baby, en la oscuridad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `95086a1044423802c6cb8f60e110150958aab4f7cba0b8b0f1dde66bcdcb10ba` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
